@@ -1,0 +1,25 @@
+2024-06-21 16:17:48
+Unique Images:
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image18.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image14.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image21.bmp,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image19.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image1.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image6.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image7.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image11.png,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image10.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image8.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image5.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image9.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image20.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image16.jpeg,
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image17.jpeg,
+
+Duplicate Images:
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image3.jpeg, image14.jpeg 1.0 = image3.jpeg
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image2.jpeg, image21.bmp 0.9015705884529216 = image2.jpeg
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image4.jpeg, image11.png 1.0 = image4.jpeg
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image12.bmp, image11.png 1.0 = image12.bmp
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image15.gif, image9.jpeg 0.9997726514942824 = image15.gif
+/Users/sony/Documents/Sony-Documents/Coding/projects/Bootcamp/SOLO END PROJECT/MAIN-COMPLETE/PhotoDedup/IMAGES/image13.gif, image6.jpeg 0.30477807633484244 = image13.gif
